@@ -491,18 +491,6 @@ const Main = () => {
                 autoComplete="off"
                 className={styles.hiddenHoney}
               />
-                {/* 🔹 생년월일 입력 추가 */}
-                <label htmlFor="birthdate">
-                  생년월일 <span className={styles.redStar}>*</span>
-                </label>
-                <input
-                  type="text"
-                  name="birthdate"
-                  placeholder="예: 950527"
-                  value={registration.birthdate}
-                  onChange={handleInputChange}
-                  required
-                />
 
               <label htmlFor="message">
                 문의 내용
@@ -777,19 +765,6 @@ const Main = () => {
                   inputMode="tel"
                   pattern="^01[0-9][-\s]?[0-9]{3,4}[-\s]?[0-9]{4}$"
                   title="예: 01012345678 또는 010-1234-5678"
-                />
-
-                {/* 🔹 생년월일 입력 추가 */}
-                <label htmlFor="birthdate">
-                  생년월일 <span className={styles.redStar}>*</span>
-                </label>
-                <input
-                  type="text"
-                  name="birthdate"
-                  placeholder="예: 950527"
-                  value={registration.birthdate}
-                  onChange={handleInputChange}
-                  required
                 />
 
                 {/* 허니팟 (봇 스팸 방지) */}
