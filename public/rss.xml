@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>둔산 해링턴 플레이스</title>
+    <link>https://www.cssdesign.kr/</link>
+    <description>둔산 해링턴 플레이스ㅣ☎️(대표)1533-8848ㅣ견본주택ㅣ모델하우스ㅣ위치ㅣ청약ㅣ분양ㅣ분양가ㅣ공급정보ㅣ잔여세대문의ㅣ고객센터ㅣ방문예약</description>
+    <language>ko-KR</language>
+    <lastBuildDate>Tue, 09 Sep 2025 09:00:00 +0900</lastBuildDate>
+    <atom:link href="https://www.cssdesign.kr/rss.xml" rel="self" type="application/rss+xml" />
+
+    <!-- 브랜드소개 -->
+    <item>
+      <title>브랜드 소개</title>
+      <link>https://www.cssdesign.kr/Brand/intro</link>
+      <guid isPermaLink="true">https://www.cssdesign.kr/Brand/intro</guid>
+      <description><![CDATA[해링턴 플레이스의 브랜드 가치와 철학, 품질 기준과 주거 비전을 소개합니다.]]></description>
+      <pubDate>Tue, 09 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>홍보 영상</title>
+      <link>https://www.cssdesign.kr/Brand/video</link>
+      <guid isPermaLink="true">https://www.cssdesign.kr/Brand/video</guid>
+      <description><![CDATA[입지·교통·커뮤니티·설계를 영상으로 한눈에 확인하세요.]]></description>
+      <pubDate>Tue, 09 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 사업개요 -->
+    <item>
+      <title>사업안내</title>
+      <link>https://www.cssdesign.kr/BusinessGuide/intro</link>
+      <guid isPermaLink="true">https://www.cssdesign.kr/BusinessGuide/intro</guid>
+      <description><![CDATA[단지 개요, 규모, 세대 구성과 입지 핵심 정보를 요약해 안내합니다.]]></description>
+      <pubDate>Tue, 09 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>분양일정</title>
+      <link>https://www.cssdesign.kr/BusinessGuide/plan</link>
+      <guid isPermaLink="true">https://www.cssdesign.kr/BusinessGuide/plan</guid>
+      <description><![CDATA[모델하우스 오픈, 특별공급, 1·2순위 청약, 당첨자 발표, 계약 일정까지 한눈에.]]></description>
+      <pubDate>Tue, 09 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 입지환경 -->
+    <item>
+      <title>입지안내</title>
+      <link>https://www.cssdesign.kr/LocationEnvironment/intro</link>
+      <guid isPermaLink="true">https://www.cssdesign.kr/LocationEnvironment/intro</guid>
+      <description><![CDATA[갑천역 초역세권, 트램(2호선 예정), 갤러리아·NC·이마트, 월평공원·갑천 리버뷰 등 입지 핵심을 소개합니다.]]></description>
+      <pubDate>Tue, 09 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>프리미엄</title>
+      <link>https://www.cssdesign.kr/LocationEnvironment/primium</link>
+      <guid isPermaLink="true">https://www.cssdesign.kr/LocationEnvironment/primium</guid>
+      <description><![CDATA[교통·교육·의료·쇼핑·자연을 아우르는 둔산 생활권 프리미엄을 확인하세요.]]></description>
+      <pubDate>Tue, 09 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 단지안내 -->
+    <item>
+      <title>단지 배치도</title>
+      <link>https://www.cssdesign.kr/ComplexGuide/intro</link>
+      <guid isPermaLink="true">https://www.cssdesign.kr/ComplexGuide/intro</guid>
+      <description><![CDATA[동 배치, 조경, 커뮤니티, 주차·동선 등 단지 계획을 한눈에 확인하세요.]]></description>
+      <pubDate>Tue, 09 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>호수 배치도</title>
+      <link>https://www.cssdesign.kr/ComplexGuide/detailintro</link>
+      <guid isPermaLink="true">https://www.cssdesign.kr/ComplexGuide/detailintro</guid>
+      <description><![CDATA[동·호수별 위치와 조망/일조/프라이버시 정보를 제공합니다.]]></description>
+      <pubDate>Tue, 09 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커뮤니티</title>
+      <link>https://www.cssdesign.kr/ComplexGuide/community</link>
+      <guid isPermaLink="true">https://www.cssdesign.kr/ComplexGuide/community</guid>
+      <description><![CDATA[피트니스, 실내 골프연습장, 독서실, 어린이집, 라운지 등 커뮤니티 시설 소개.]]></description>
+      <pubDate>Tue, 09 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 세대안내 (네가 준 경로에 정확히 맞춤) -->
+    <item>
+      <title>84A</title>
+      <link>https://www.cssdesign.kr/FloorPlan/59A</link>
+      <guid isPermaLink="true">https://www.cssdesign.kr/FloorPlan/59A</guid>
+      <description><![CDATA[84A 타입 안내. 공간 구성과 수납, 동선 최적화를 확인하세요.]]></description>
+      <pubDate>Tue, 09 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>84B</title>
+      <link>https://www.cssdesign.kr/FloorPlan/59B</link>
+      <guid isPermaLink="true">https://www.cssdesign.kr/FloorPlan/59B</guid>
+      <description><![CDATA[84B 타입 안내. 채광/통풍과 실용성 중심 평면 특장점.]]></description>
+      <pubDate>Tue, 09 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>115</title>
+      <link>https://www.cssdesign.kr/FloorPlan/84A</link>
+      <guid isPermaLink="true">https://www.cssdesign.kr/FloorPlan/84A</guid>
+      <description><![CDATA[115㎡ 타입 안내. 여유 있는 거실/수납과 다목적 공간 활용.]]></description>
+      <pubDate>Tue, 09 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>142A</title>
+      <link>https://www.cssdesign.kr/FloorPlan/84B</link>
+      <guid isPermaLink="true">https://www.cssdesign.kr/FloorPlan/84B</guid>
+      <description><![CDATA[142A㎡ 타입 안내. 대형 평형의 개방감과 프리미엄 마감.]]></description>
+      <pubDate>Tue, 09 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>142B</title>
+      <link>https://www.cssdesign.kr/FloorPlan/114A</link>
+      <guid isPermaLink="true">https://www.cssdesign.kr/FloorPlan/114A</guid>
+      <description><![CDATA[142B㎡ 타입 안내. 가족 구성에 맞춘 다양한 공간 연출.]]></description>
+      <pubDate>Tue, 09 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>182</title>
+      <link>https://www.cssdesign.kr/FloorPlan/114B</link>
+      <guid isPermaLink="true">https://www.cssdesign.kr/FloorPlan/114B</guid>
+      <description><![CDATA[182㎡ 타입 안내. 파노라마 뷰와 펜트하우스급 설계 경험.]]></description>
+      <pubDate>Tue, 09 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 인테리어 -->
+    <item>
+      <title>인테리어</title>
+      <link>https://www.cssdesign.kr/Interior/intro</link>
+      <guid isPermaLink="true">https://www.cssdesign.kr/Interior/intro</guid>
+      <description><![CDATA[마감재, 컬러 패키지, 옵션과 스타일 가이드를 확인하세요.]]></description>
+      <pubDate>Tue, 09 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 홍보센터 -->
+    <item>
+      <title>언론보도</title>
+      <link>https://www.cssdesign.kr/Promotion/Press</link>
+      <guid isPermaLink="true">https://www.cssdesign.kr/Promotion/Press</guid>
+      <description><![CDATA[둔산 해링턴 플레이스 관련 기사/보도자료 모음.]]></description>
+      <pubDate>Tue, 09 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>관심고객등록</title>
+      <link>https://www.cssdesign.kr/Promotion/Customer</link>
+      <guid isPermaLink="true">https://www.cssdesign.kr/Promotion/Customer</guid>
+      <description><![CDATA[관심고객 등록 시 모델하우스 예약, 분양 소식/청약 일정, 위치 정보를 우선 안내합니다.]]></description>
+      <pubDate>Tue, 09 Sep 2025 09:00:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
