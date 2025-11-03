@@ -51,7 +51,7 @@ const LocationEnvironment1 = () => {
           name="description"
           content="둔산 해링턴 플레이스 프리미엄: 갑천 리버뷰, 1호선 갑천역 초역세권·2호선 트램(예정), 갤러리아·NC백화점·이마트 등 풍부한 생활 인프라, 월평공원·유림공원 녹지와 함께하는 쾌적한 주거 환경."
         />
-        <link rel="canonical" href="https://www.cssdesign.kr/LocationEnvironment/primium" />
+        <link rel="canonical" href="https://www.dwbsongs.com/LocationEnvironment/primium" />
         <meta name="robots" content="index,follow" />
 
         {/* Open Graph */}
@@ -62,8 +62,8 @@ const LocationEnvironment1 = () => {
           property="og:description"
           content="둔산 해링턴 플레이스만의 프리미엄: 리버뷰 전망, 트램 교통망, 쇼핑·교육 인프라, 자연친화 입지를 모두 갖춘 주거의 새로운 기준."
         />
-        <meta property="og:url" content="https://www.cssdesign.kr/LocationEnvironment/primium" />
-        <meta property="og:image" content="https://www.cssdesign.kr/img/og/primium.jpg" />
+        <meta property="og:url" content="https://www.dwbsongs.com/LocationEnvironment/primium" />
+        <meta property="og:image" content="https://www.dwbsongs.com/img/og/primium.jpg" />
       </Helmet>
 
       <Header isChanged={isScroll} />

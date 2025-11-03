@@ -50,7 +50,7 @@ const Brand2 = () => {
 					name="description"
 					content="둔산 생활권과 갑천 리버뷰 입지, 세대 설계와 커뮤니티, 자연·도심 인프라를 한눈에 보는 둔산 해링턴 플레이스 홍보영상."
 				/>
-				<link rel="canonical" href="https://www.cssdesign.kr/Brand/video" />
+				<link rel="canonical" href="https://www.dwbsongs.com/Brand/video" />
 				<meta name="robots" content="index,follow" />
 
 				{/* OG 태그 */}
@@ -61,8 +61,8 @@ const Brand2 = () => {
 					property="og:description"
 					content="리버뷰 랜드마크, 둔산 해링턴 플레이스의 설계·커뮤니티·입지 프리미엄을 영상으로 만나보세요."
 				/>
-				<meta property="og:url" content="https://www.cssdesign.kr/Brand/video" />
-				<meta property="og:image" content="https://www.cssdesign.kr/images/og/main.jpg" />
+				<meta property="og:url" content="https://www.dwbsongs.com/Brand/video" />
+				<meta property="og:image" content="https://www.dwbsongs.com/images/og/main.jpg" />
 
 				{/* Twitter */}
 				<meta name="twitter:card" content="summary_large_image" />
@@ -71,7 +71,7 @@ const Brand2 = () => {
 					name="twitter:description"
 					content="갑천 리버뷰·둔산 생활권 프리미엄을 담은 홍보영상. 설계·커뮤니티·인프라를 한 번에 확인하세요."
 				/>
-				<meta name="twitter:image" content="https://www.cssdesign.kr/images/og/main.jpg" />
+				<meta name="twitter:image" content="https://www.dwbsongs.com/images/og/main.jpg" />
 				</Helmet>
 
 				<Header isChanged={isScroll} />

@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "둔산 해링턴 플레이스", url: "https://www.cssdesign.kr/" },
+  { name: "둔산 해링턴 플레이스", url: "https://www.dwbsongs.com/" },
 ];
 
 const Footer = () => {

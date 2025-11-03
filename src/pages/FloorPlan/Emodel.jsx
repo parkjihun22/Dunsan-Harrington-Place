@@ -54,7 +54,7 @@ const Emodel = () => {
           content="둔산 해링턴 플레이스 E-모델하우스를 온라인에서 VR 가상투어로 둘러보세요. 세대별 평면도, 인테리어, 공간 활용 설계를 실감나게 체험할 수 있습니다."
         />
         <meta name="robots" content="index,follow" />
-        <link rel="canonical" href="https://www.cssdesign.kr/FloorPlan/Emodel" />
+        <link rel="canonical" href="https://www.dwbsongs.com/FloorPlan/Emodel" />
 
         {/* Open Graph */}
         <meta property="og:type" content="website" />
@@ -64,8 +64,8 @@ const Emodel = () => {
           property="og:description"
           content="VR 가상투어로 만나는 둔산 해링턴 플레이스 E-모델하우스. 세대별 평면도와 인테리어를 온라인에서 실감나게 체험하세요."
         />
-        <meta property="og:url" content="https://www.cssdesign.kr/FloorPlan/Emodel" />
-        <meta property="og:image" content="https://www.cssdesign.kr/img/og/emodel.jpg" />
+        <meta property="og:url" content="https://www.dwbsongs.com/FloorPlan/Emodel" />
+        <meta property="og:image" content="https://www.dwbsongs.com/img/og/emodel.jpg" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
 
@@ -76,8 +76,8 @@ const Emodel = () => {
           name="twitter:description"
           content="둔산 해링턴 플레이스 E-모델하우스를 VR 투어로 온라인에서 경험하세요. 평면도와 인테리어를 생생하게 확인할 수 있습니다."
         />
-        <meta name="twitter:image" content="https://www.cssdesign.kr/img/og/emodel.jpg" />
-        <meta name="twitter:url" content="https://www.cssdesign.kr/FloorPlan/Emodel" />
+        <meta name="twitter:image" content="https://www.dwbsongs.com/img/og/emodel.jpg" />
+        <meta name="twitter:url" content="https://www.dwbsongs.com/FloorPlan/Emodel" />
 
         {/* JSON-LD (구조화 데이터) */}
         <script type="application/ld+json">
@@ -85,20 +85,20 @@ const Emodel = () => {
             "@context": "https://schema.org",
             "@type": "WebPage",
             "name": "둔산 해링턴 플레이스 - E-모델하우스",
-            "url": "https://www.cssdesign.kr/FloorPlan/Emodel",
+            "url": "https://www.dwbsongs.com/FloorPlan/Emodel",
             "description":
               "둔산 해링턴 플레이스 E-모델하우스를 온라인 VR 투어로 확인하세요. 세대별 평면도, 인테리어, 공간 활용을 실감나게 경험할 수 있습니다.",
             "primaryImageOfPage": {
               "@type": "ImageObject",
-              "contentUrl": "https://www.cssdesign.kr/img/og/emodel.jpg",
+              "contentUrl": "https://www.dwbsongs.com/img/og/emodel.jpg",
               "width": 1200,
               "height": 630
             },
             "breadcrumb": {
               "@type": "BreadcrumbList",
               "itemListElement": [
-                { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.cssdesign.kr/" },
-                { "@type": "ListItem", "position": 2, "name": "E-모델하우스", "item": "https://www.cssdesign.kr/FloorPlan/Emodel" }
+                { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.dwbsongs.com/" },
+                { "@type": "ListItem", "position": 2, "name": "E-모델하우스", "item": "https://www.dwbsongs.com/FloorPlan/Emodel" }
               ]
             }
           })}

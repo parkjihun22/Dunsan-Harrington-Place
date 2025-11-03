@@ -57,7 +57,7 @@ const BusinessGuide2 = () => {
                 name="description"
                 content="둔산 해링턴 플레이스 분양일정을 한눈에 확인하세요. 특별공급·1·2순위 청약, 당첨자 발표, 계약 일정 등 핵심 일정을 안내합니다."
             />
-            <link rel="canonical" href="https://www.cssdesign.kr/BusinessGuide/plan" />
+            <link rel="canonical" href="https://www.dwbsongs.com/BusinessGuide/plan" />
             <meta name="robots" content="index,follow" />
             </Helmet>
 

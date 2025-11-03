@@ -58,7 +58,7 @@ const ComplexGuide1 = () => {
           name="description"
           content="둔산 해링턴 플레이스 호수배치도: 세대별 위치와 동·호수별 전망, 일조 방향, 프라이버시까지 고려한 단지 설계. 입주민 생활 편의와 쾌적한 주거 환경을 위한 배치 정보를 확인하세요."
         />
-        <link rel="canonical" href="https://www.cssdesign.kr/ComplexGuide/detailintro" />
+        <link rel="canonical" href="https://www.dwbsongs.com/ComplexGuide/detailintro" />
         <meta name="robots" content="index,follow" />
 
         {/* Open Graph */}
@@ -69,8 +69,8 @@ const ComplexGuide1 = () => {
           property="og:description"
           content="둔산 해링턴 플레이스 호수배치도: 세대별 위치, 전망, 일조, 프라이버시 설계를 한눈에 확인하세요."
         />
-        <meta property="og:url" content="https://www.cssdesign.kr/ComplexGuide/detailintro" />
-        <meta property="og:image" content="https://www.cssdesign.kr/img/og/complex.jpg" />
+        <meta property="og:url" content="https://www.dwbsongs.com/ComplexGuide/detailintro" />
+        <meta property="og:image" content="https://www.dwbsongs.com/img/og/complex.jpg" />
 
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
@@ -79,8 +79,8 @@ const ComplexGuide1 = () => {
           name="twitter:description"
           content="둔산 해링턴 플레이스 호수배치도: 동·호수별 위치와 조망, 일조, 프라이버시 설계를 확인하세요."
         />
-        <meta name="twitter:image" content="https://www.cssdesign.kr/img/og/complex.jpg" />
-        <meta name="twitter:url" content="https://www.cssdesign.kr/ComplexGuide/detailintro" />
+        <meta name="twitter:image" content="https://www.dwbsongs.com/img/og/complex.jpg" />
+        <meta name="twitter:url" content="https://www.dwbsongs.com/ComplexGuide/detailintro" />
       </Helmet>
 
       <Header isChanged={isScroll} />

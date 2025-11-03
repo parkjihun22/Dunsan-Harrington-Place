@@ -59,7 +59,7 @@ const ComplexGuide1 = () => {
             name="description"
             content="둔산 해링턴 플레이스 분양 계약 시 필요한 인지세 납부 기준과 절차, 비용 및 유의사항을 확인하세요."
           />
-          <link rel="canonical" href="https://www.cssdesign.kr/SalesInfo/stampTax" />
+          <link rel="canonical" href="https://www.dwbsongs.com/SalesInfo/stampTax" />
           <meta name="robots" content="index,follow" />
         </Helmet>
 

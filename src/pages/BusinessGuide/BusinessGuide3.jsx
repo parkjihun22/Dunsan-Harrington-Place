@@ -72,7 +72,7 @@ const BusinessGuide2 = () => {
 				<meta name="robots" content="index,follow" />
 				<link
 					rel="canonical"
-					href="https://www.cssdesign.kr/BusinessGuide/documents"
+					href="https://www.dwbsongs.com/BusinessGuide/documents"
 				/>
 
 				{/* Open Graph */}
@@ -83,8 +83,8 @@ const BusinessGuide2 = () => {
 					property="og:description"
 					content="둔산 해링턴 플레이스 계약서류 안내: 신분증, 주민등록등본, 인감증명서 등 필수 제출서류와 준비 절차, 유의사항을 확인하세요."
 				/>
-				<meta property="og:url" content="https://www.cssdesign.kr/BusinessGuide/documents" />
-				<meta property="og:image" content="https://www.cssdesign.kr/Main1.png" />
+				<meta property="og:url" content="https://www.dwbsongs.com/BusinessGuide/documents" />
+				<meta property="og:image" content="https://www.dwbsongs.com/Main1.png" />
 				</Helmet>
 
 				<Header isChanged={isScroll} />

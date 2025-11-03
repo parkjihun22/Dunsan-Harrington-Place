@@ -67,7 +67,7 @@ const BusinessGuide1 = () => {
 					content="둔산 생활권과 갑천 리버뷰 입지의 둔산 해링턴 플레이스. 지하 4층~지상 35층, 총 336세대 규모와 84·115·142·182㎡ 구성, 효성 해링턴 플레이스의 품질을 사업안내에서 확인하세요."
 				/>
 				<meta name="robots" content="index,follow" />
-				<link rel="canonical" href="https://www.cssdesign.kr/BusinessGuide/intro" />
+				<link rel="canonical" href="https://www.dwbsongs.com/BusinessGuide/intro" />
 
 				{/* Open Graph */}
 				<meta property="og:type" content="website" />
@@ -77,8 +77,8 @@ const BusinessGuide1 = () => {
 					property="og:description"
 					content="갑천 리버뷰·둔산 생활권 프리미엄. 총 336세대, 84·115·142·182㎡ 구성의 둔산 해링턴 플레이스 사업개요."
 				/>
-				<meta property="og:url" content="https://www.cssdesign.kr/BusinessGuide/intro" />
-				<meta property="og:image" content="https://www.cssdesign.kr/img/og/business.jpg" />
+				<meta property="og:url" content="https://www.dwbsongs.com/BusinessGuide/intro" />
+				<meta property="og:image" content="https://www.dwbsongs.com/img/og/business.jpg" />
 				<meta property="og:image:width" content="1200" />
 				<meta property="og:image:height" content="630" />
 
@@ -89,8 +89,8 @@ const BusinessGuide1 = () => {
 					name="twitter:description"
 					content="둔산 생활권·갑천 리버뷰 입지, 총 336세대 규모와 다양한 평형 구성의 둔산 해링턴 플레이스 사업안내."
 				/>
-				<meta name="twitter:image" content="https://www.cssdesign.kr/img/og/business.jpg" />
-				<meta name="twitter:url" content="https://www.cssdesign.kr/BusinessGuide/intro" />
+				<meta name="twitter:image" content="https://www.dwbsongs.com/img/og/business.jpg" />
+				<meta name="twitter:url" content="https://www.dwbsongs.com/BusinessGuide/intro" />
 
 				{/* JSON-LD (WebPage) */}
 				<script type="application/ld+json">
@@ -98,20 +98,20 @@ const BusinessGuide1 = () => {
 					"@context": "https://schema.org",
 					"@type": "WebPage",
 					"name": "둔산 해링턴 플레이스 - 사업안내",
-					"url": "https://www.cssdesign.kr/BusinessGuide/intro",
+					"url": "https://www.dwbsongs.com/BusinessGuide/intro",
 					"description":
 						"둔산 생활권과 갑천 리버뷰 입지의 둔산 해링턴 플레이스 사업 개요. 총 336세대, 84·115·142·182㎡ 구성.",
 					"primaryImageOfPage": {
 						"@type": "ImageObject",
-						"contentUrl": "https://www.cssdesign.kr/img/og/business.jpg",
+						"contentUrl": "https://www.dwbsongs.com/img/og/business.jpg",
 						"width": 1200,
 						"height": 630
 					},
 					"breadcrumb": {
 						"@type": "BreadcrumbList",
 						"itemListElement": [
-						{ "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.cssdesign.kr/" },
-						{ "@type": "ListItem", "position": 2, "name": "사업안내", "item": "https://www.cssdesign.kr/BusinessGuide/intro" }
+						{ "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.dwbsongs.com/" },
+						{ "@type": "ListItem", "position": 2, "name": "사업안내", "item": "https://www.dwbsongs.com/BusinessGuide/intro" }
 						]
 					}
 					})}

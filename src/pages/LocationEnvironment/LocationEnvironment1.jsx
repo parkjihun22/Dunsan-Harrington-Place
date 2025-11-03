@@ -101,7 +101,7 @@ const LocationEnvironment1 = () => {
           content="둔산 해링턴 플레이스 입지환경: 1호선 갑천역 초역세권과 2호선 트램(예정), 계룡로·한밭대로 등 도로망, 갤러리아 타임월드·NC백화점·이마트, 월평공원·갑천 리버뷰까지 갖춘 둔산 생활권 핵심 입지."
         />
         <meta name="robots" content="index,follow" />
-        <link rel="canonical" href="https://www.cssdesign.kr/LocationEnvironment/intro" />
+        <link rel="canonical" href="https://www.dwbsongs.com/LocationEnvironment/intro" />
 
         {/* Open Graph */}
         <meta property="og:type" content="website" />
@@ -111,8 +111,8 @@ const LocationEnvironment1 = () => {
           property="og:description"
           content="갑천역 초역세권·트램(2호선 예정)·도심 인프라·리버뷰를 누리는 둔산 해링턴 플레이스의 입지환경을 확인하세요."
         />
-        <meta property="og:url" content="https://www.cssdesign.kr/LocationEnvironment/intro" />
-        <meta property="og:image" content="https://www.cssdesign.kr/img/og/location.jpg" />
+        <meta property="og:url" content="https://www.dwbsongs.com/LocationEnvironment/intro" />
+        <meta property="og:image" content="https://www.dwbsongs.com/img/og/location.jpg" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
 
@@ -123,8 +123,8 @@ const LocationEnvironment1 = () => {
           name="twitter:description"
           content="둔산 생활권 핵심 입지: 1호선 갑천역, 2호선 트램(예정), 풍부한 쇼핑·교육·문화 인프라, 월평공원과 갑천 리버뷰까지."
         />
-        <meta name="twitter:image" content="https://www.cssdesign.kr/img/og/location.jpg" />
-        <meta name="twitter:url" content="https://www.cssdesign.kr/LocationEnvironment/intro" />
+        <meta name="twitter:image" content="https://www.dwbsongs.com/img/og/location.jpg" />
+        <meta name="twitter:url" content="https://www.dwbsongs.com/LocationEnvironment/intro" />
 
         {/* JSON-LD (대표 이미지/브레드크럼 포함) */}
         <script type="application/ld+json">
@@ -132,20 +132,20 @@ const LocationEnvironment1 = () => {
             "@context": "https://schema.org",
             "@type": "WebPage",
             "name": "둔산 해링턴 플레이스 - 입지환경",
-            "url": "https://www.cssdesign.kr/LocationEnvironment/intro",
+            "url": "https://www.dwbsongs.com/LocationEnvironment/intro",
             "description":
               "둔산 생활권 입지: 1호선 갑천역 초역세권, 2호선 트램(예정), 계룡로·한밭대로, 갤러리아·NC·이마트, 월평공원·갑천 리버뷰.",
             "primaryImageOfPage": {
               "@type": "ImageObject",
-              "contentUrl": "https://www.cssdesign.kr/img/og/location.jpg",
+              "contentUrl": "https://www.dwbsongs.com/img/og/location.jpg",
               "width": 1200,
               "height": 630
             },
             "breadcrumb": {
               "@type": "BreadcrumbList",
               "itemListElement": [
-                { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.cssdesign.kr/" },
-                { "@type": "ListItem", "position": 2, "name": "입지환경", "item": "https://www.cssdesign.kr/LocationEnvironment/intro" }
+                { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.dwbsongs.com/" },
+                { "@type": "ListItem", "position": 2, "name": "입지환경", "item": "https://www.dwbsongs.com/LocationEnvironment/intro" }
               ]
             }
           })}

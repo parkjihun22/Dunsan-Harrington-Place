@@ -77,7 +77,7 @@ const ComplexGuide1 = () => {
             name="description"
             content="둔산 해링턴 플레이스 모집공고를 확인하세요. 공급 세대수·공급 면적·분양가, 청약 일정·신청 자격, 당첨자 발표 및 계약 관련 정보를 안내합니다."
           />
-          <link rel="canonical" href="https://www.cssdesign.kr/SalesInfo/announcement" />
+          <link rel="canonical" href="https://www.dwbsongs.com/SalesInfo/announcement" />
           <meta name="robots" content="index,follow" />
         </Helmet>
 

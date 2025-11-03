@@ -57,7 +57,7 @@ const ComplexGuide1 = () => {
             name="description"
             content="둔산 해링턴 플레이스 청약안내를 확인하세요. 특별공급, 1·2순위 청약 일정, 자격 요건, 필요 서류 및 절차를 한눈에 안내합니다."
           />
-          <link rel="canonical" href="https://www.cssdesign.kr/SalesInfo/SubscriptionGuide" />
+          <link rel="canonical" href="https://www.dwbsongs.com/SalesInfo/SubscriptionGuide" />
           <meta name="robots" content="index,follow" />
         </Helmet>
   

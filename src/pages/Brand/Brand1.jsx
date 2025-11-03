@@ -53,7 +53,7 @@ const Brand1 = () => {
                     name="description"
                     content="효성 해링턴 플레이스 브랜드 철학과 가치. 검증된 품질, 첨단 시공 기술, 스마트 주거 시스템으로 생활의 품격을 높입니다."
                 />
-                <link rel="canonical" href="https://www.cssdesign.kr/Brand/intro" />
+                <link rel="canonical" href="https://www.dwbsongs.com/Brand/intro" />
                 <meta name="robots" content="index,follow" />
 
                 {/* Open Graph */}
@@ -64,8 +64,8 @@ const Brand1 = () => {
                     property="og:description"
                     content="효성중공업의 해링턴 플레이스 브랜드 소개. 둔산 생활권·갑천 리버뷰 입지와 차별화된 설계로 새로운 주거 기준을 제시합니다."
                 />
-                <meta property="og:url" content="https://www.cssdesign.kr/Brand/intro" />
-                <meta property="og:image" content="https://www.cssdesign.kr/images/og/main.jpg" />
+                <meta property="og:url" content="https://www.dwbsongs.com/Brand/intro" />
+                <meta property="og:image" content="https://www.dwbsongs.com/images/og/main.jpg" />
 
                 {/* (선택) Twitter Card */}
                 <meta name="twitter:card" content="summary_large_image" />
@@ -74,7 +74,7 @@ const Brand1 = () => {
                     name="twitter:description"
                     content="해링턴 플레이스의 가치와 철학. 품질·설계·스마트 시스템으로 완성되는 프리미엄 라이프."
                 />
-                <meta name="twitter:image" content="https://www.cssdesign.kr/images/og/main.jpg" />
+                <meta name="twitter:image" content="https://www.dwbsongs.com/images/og/main.jpg" />
                 </Helmet>
 
                 <Header isChanged={isScroll} />

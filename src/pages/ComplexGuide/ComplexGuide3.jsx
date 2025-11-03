@@ -56,7 +56,7 @@ const ComplexGuide3 = () => {
           name="description"
           content="둔산 해링턴 플레이스 커뮤니티 시설을 소개합니다. 피트니스센터, 실내 골프연습장, 독서실, 어린이집, 게스트하우스 등 입주민의 생활 품격을 높이는 다양한 편의시설을 확인하세요."
         />
-        <link rel="canonical" href="https://www.cssdesign.kr/ComplexGuide/community" />
+        <link rel="canonical" href="https://www.dwbsongs.com/ComplexGuide/community" />
         <meta name="robots" content="index,follow" />
 
         {/* Open Graph */}
@@ -67,8 +67,8 @@ const ComplexGuide3 = () => {
           property="og:description"
           content="둔산 해링턴 플레이스 커뮤니티: 피트니스, 골프연습장, 독서실, 카페, 어린이집, 게스트하우스 등 다양한 생활 편의시설과 커뮤니티 공간을 제공합니다."
         />
-        <meta property="og:url" content="https://www.cssdesign.kr/ComplexGuide/community" />
-        <meta property="og:image" content="https://www.cssdesign.kr/img/og/complex.jpg" />
+        <meta property="og:url" content="https://www.dwbsongs.com/ComplexGuide/community" />
+        <meta property="og:image" content="https://www.dwbsongs.com/img/og/complex.jpg" />
 
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
@@ -77,8 +77,8 @@ const ComplexGuide3 = () => {
           name="twitter:description"
           content="피트니스·골프연습장·독서실·어린이집·게스트하우스 등 생활 품격을 높이는 둔산 해링턴 플레이스 커뮤니티 시설."
         />
-        <meta name="twitter:image" content="https://www.cssdesign.kr/img/og/complex.jpg" />
-        <meta name="twitter:url" content="https://www.cssdesign.kr/ComplexGuide/community" />
+        <meta name="twitter:image" content="https://www.dwbsongs.com/img/og/complex.jpg" />
+        <meta name="twitter:url" content="https://www.dwbsongs.com/ComplexGuide/community" />
       </Helmet>
 
       <Header isChanged={isScroll} />
